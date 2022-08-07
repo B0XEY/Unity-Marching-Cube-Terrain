@@ -1,5 +1,6 @@
 # Unity-Marching-Cube-Terrain
 Unity marching cube terrain 
+Very customisible with terrain that scales!
 
 
 i made this a a little project follow so vary cool peoples tutorials!
