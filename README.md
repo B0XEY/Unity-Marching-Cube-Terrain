@@ -11,5 +11,5 @@ Then i switch to noise and island stuff so i followed  some of Sebastian Lague's
 2. https://www.youtube.com/watch?v=MRNFcywkUSA
 3. https://www.youtube.com/watch?v=WP-Bm65Q-1Y
 
-after a bit i have a somewhat working verson!
-ill Post a better verson so other time :)
+after a bit i have a somewhat working verson! Ill Post a better verson so other time :)
+No Muilt Threading on it stock if any does please let me know so i can put it on here!
