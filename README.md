@@ -16,10 +16,10 @@ after a bit i have a somewhat working verson! Ill Post a better verson so other 
 No Muilt Threading on it stock if any does please let me know so i can put it on here!
 
 Fetures :)
-. Mulit Chunk Generation
-. Flat Shading as well as terrain smoothing
-. Full Noise Controll
-. Easy way to view the noise map on a plane
-. Hides values that you dont need based off your settings!
-. Falloff Map (for islands)
-. Endless Terrain?? (Not Done)
+1. Mulit Chunk Generation
+2. Flat Shading as well as terrain smoothing
+3. Full Noise Controll
+4. Easy way to view the noise map on a plane
+5. Hides values that you dont need based off your settings!
+6. Falloff Map (for islands)
+7. Endless Terrain?? (Not Done)
