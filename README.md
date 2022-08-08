@@ -14,3 +14,12 @@ Then i switch to noise and island stuff so i followed  some of Sebastian Lague's
 
 after a bit i have a somewhat working verson! Ill Post a better verson so other time :)
 No Muilt Threading on it stock if any does please let me know so i can put it on here!
+
+Fetures :)
+> Mulit Chunk Generation
+> Flat Shading as well as terrain smoothing
+> Full Noise Controll
+> Easy way to view the noise map on a plane
+> Hides values that you dont need based off your settings!
+> Falloff Map (for islands)
+> Endless Terrain?? (Not Done)
