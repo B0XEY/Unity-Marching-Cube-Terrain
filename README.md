@@ -31,4 +31,15 @@ Fetures :)
 
 
 How to Install :>
+1. Download just the needed files or the full project
+2. If you downloaded the full project skip to step 9.
+3. Unzip the downloaded file
+4. Put everything in the "Open Me" file into the assest folder of your project
+5. Open your project and drag the "World" Prefab to your game
+6. Add a tag called "World" and a layer in the 3rd slot called "Ground"
+7. Press "Generate Map" to show you the noise or click to the "Marching" Generation type to make a mesh.
+8. Play Game and hope for no errors :)
+9. FULL PROJECT DOWNLOAD
+10. Unzip the file and put in a spot you will remember
+11. Open the projetc in the Unity Hub
 
