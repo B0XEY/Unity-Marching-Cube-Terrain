@@ -16,15 +16,18 @@ Then i switch to noise and island stuff so i followed  some of Sebastian Lague's
 
 after a bit i have a somewhat working verson! Ill Post a better verson so other time :)
 No Muilt Threading /compute shader on it stock if anyone does know howplease let me know so i can put it on here!
+No LOD system
 
 Fetures :)
 1. Mulit Chunk Generation as well as slower method for bigger land masses
 2. Flat Shading as well as terrain smoothing
-3. Full Noise Controll
-4. Easy way to view the noise map on a plane
-5. Hides values that you dont need based off your settings!
-6. Falloff Map (for islands, Full controll over function w/ desmos calulation)
-7. Endless Terrain?? (Not Done)
+3. Full Noise Control
+5. Easy way to view the noise map on a plane
+6. Hides values that you dont need based off your settings!
+7. Falloff Map (for islands, Full controll over function w/ desmos calulation)
+8. Place Prefabs (Grass / trees) on map after Generation
+9. Full Controll Of Terrian Material
+10. Endless Terrain?? (Not Done / Not started)
 
 
 How to Install :>
