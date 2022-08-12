@@ -8,15 +8,15 @@ Very customisible with terrain that scales!
 I made this a little project from following some very cool people's tutorials! Here are the links.
 1. https://www.youtube.com/playlist?list=PLVsTSlfj0qsWt0qafrT6blp5yvchzO4ee (up to ep. 4) 
 
-Then i switch to noise and island stuff so i followed  some of Sebastian Lague's videos
+Then i switch to the noise and island generation stuff so i followed some of Sebastian Lague's videos
 1. https://www.youtube.com/watch?v=COmtTyLCd6I
 2. https://www.youtube.com/watch?v=MRNFcywkUSA
 3. https://www.youtube.com/watch?v=WP-Bm65Q-1Y
 4. https://www.youtube.com/watch?v=4olmeStiBsE
 
 after a bit i have a somewhat working verson! Ill Post a better verson so other time :)
-No Muilt Threading /compute shader on it stock if anyone does know howplease let me know so i can put it on here!
-No LOD system
+No Muilt Threading /compute shader on it stock if anyone does know how please let me know so i can put it on here!
+No LOD system (Yet)
 
 Fetures :)
 1. Mulit Chunk Generation as well as slower method for bigger land masses
