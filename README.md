@@ -41,5 +41,5 @@ How to Install :>
 8. Play Game and hope for no errors :)
 9. FULL PROJECT DOWNLOAD
 10. Unzip the file and put in a spot you will remember
-11. Open the projetc in the Unity Hub
+11. Open the project in the Unity Hub
 
